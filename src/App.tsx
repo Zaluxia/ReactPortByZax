@@ -28,18 +28,6 @@ function App() {
   const handleButtonClick = (sectionRef: React.RefObject<HTMLDivElement>) => {
     scrollToSection(sectionRef);
   };
-
-  
-
-  const texts = ['Text 1', 'Text 2', 'Text 3'];
-  const [color, setColor] = useState("#89abe3ff ");
-  const [Acolor, setAColor] = useState("#f8bbd0");
-  const [BGcolor, setBGcolor] = useState("#adadad");
-  const BGSwitch = () => {
-    setColor((prevColor) => prevColor === "#f8bbd0 " ? "black" : "#f8bbd0 ");
-    setAColor((prevColor) => prevColor === "#f8bbd0" ? "black" : "#f8bbd0");
-    setBGcolor((prevColor) => prevColor === "black" ? "#f8bbd0" : "black");
-  };
   /*
          <Navbar /> 
     */
@@ -92,11 +80,12 @@ function App() {
                 className='typewriter'
               />
               <h2 >I'am Zax</h2>
-              <p >I'm looking work place for Cooperative Education
+              <div className='grid-text2'>I'm looking work place for Cooperative Education
                 Program. I'm ready to learn and improve new skills. I
                 want work experience to increase skills that I already
                 have. For now I use React.js and Node.js for create my
-                own website.</p>
+                own website.</div>
+                <br />
             <button className='button1' onClick={() => handleButtonClick(section5Ref)}><h1> CONTACT ME </h1></button>
               <br />
               <br />
@@ -110,8 +99,8 @@ function App() {
           <div className='grid-text1' >
           
               <h1 style={{ fontSize: '50px', }}> About Me</h1>
-              <p>I'm a undergraduate student of KMUTNB.I have learn about JAVA,C,SQL,HTML and JAVAC in classroom.And
-                I learn React JavaScript by use it in final project.I can use VSCode,NetBean and Mathlab. </p>
+              <div className='grid-text2'>I'm a undergraduate student of KMUTNB.I have learn about JAVA,C,SQL,HTML and JAVAC in classroom.And
+                I learn React JavaScript by use it in final project.I can use VSCode,NetBean and Mathlab. </div>
               <div className='about'>
                 <div className='contect-head'><h4>AGE:</h4></div>
                 <div className='contect'><h4>23</h4></div>

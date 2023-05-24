@@ -63,6 +63,7 @@ margin-top: 10%;
 .grid-info{
   display: grid;
   width: 100%;
+  background-color: #373b40;
 }
 
 .grid-text{
@@ -214,6 +215,13 @@ margin-top: 10%;
     display: grid;
     justify-items: center;
   }
+  .grid-text2{
+    margin: 0%;
+    width: 80%;
+    display: grid;
+    justify-items: center;
+  }
+
 
   .skills{
     display: none;
