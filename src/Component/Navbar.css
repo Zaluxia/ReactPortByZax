@@ -1,0 +1,80 @@
+.navbar li button.active {
+    color: rgb(123, 255, 0); /* Change the text color to blue for the active section */
+  }
+
+  
+.navbar {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90%;
+    z-index: 2;
+    background-color: #696c70;
+    padding: 5px;
+    margin-left: 4%;
+    margin-top: 1%;
+    border-radius: 50px;
+    color: white;
+    grid-template-columns: repeat(2, minmax(200px, 1fr));
+  }
+  
+  .nav-text1{
+    display: flex;
+    width: 20%;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  ul{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 2px solid rgb(72, 255, 0);
+    width: 100%;
+    list-style: none;
+  }
+
+  ul li{
+margin: 0 1rem;
+  }
+
+  .btn-group{
+    display: flex;
+width: 90%;
+height: fit-content;
+justify-content: center;
+align-items: center;
+  }
+
+
+.mobile-menu{
+  display: none;
+}
+
+@media screen and (max-width: 999px) {
+  .navbar{
+      display: none;
+      position: absolute;
+      width: 97%;
+      border-radius: 0px;
+      margin-left: 0;
+      margin-right: 0;
+      margin-top: 0;
+      
+  }
+
+  .nav-text1{
+    display: flex;
+    width: 50%;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .btn-group{
+    display: none;
+  }
+  
+}

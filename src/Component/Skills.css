@@ -1,0 +1,29 @@
+
+.skills-dot{
+    display: grid;
+  }
+  .skills-text{
+    display: flex;
+    grid-template-columns: 1fr 1fr;
+    width: fit-content;
+  }
+  .begin{
+    width: 250px;
+  }
+  .ep{
+    width: 250px;
+    text-align: right;
+  }
+  
+  .item1{
+    grid-column: 1 / 5;
+  }
+  
+  @media screen and (max-width: 999px) { 
+    .item1{
+      display: none;
+    }
+    .skills-dot{
+      display: none;
+    }
+  }
