@@ -81,20 +81,3 @@ input:checked + .slider:before {
   font-size: 50px;
 }
 
-.skills-dot{
-  display: grid;
-}
-
-
-.item1{
-  grid-column: 1 / 5;
-}
-
-@media screen and (max-width: 999px) { 
-  .item1{
-    display: none;
-  }
-  .skills-dot{
-    display: none;
-  }
-}
