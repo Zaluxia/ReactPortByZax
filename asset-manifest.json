@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Zaluxia/ReactPortByZax.git/static/css/main.85633592.css",
-    "main.js": "/Zaluxia/ReactPortByZax.git/static/js/main.930d886e.js",
-    "static/js/787.d72bad1f.chunk.js": "/Zaluxia/ReactPortByZax.git/static/js/787.d72bad1f.chunk.js",
-    "static/media/2.png": "/Zaluxia/ReactPortByZax.git/static/media/2.de0edd78053aba605107.png",
-    "index.html": "/Zaluxia/ReactPortByZax.git/index.html",
-    "main.85633592.css.map": "/Zaluxia/ReactPortByZax.git/static/css/main.85633592.css.map",
-    "main.930d886e.js.map": "/Zaluxia/ReactPortByZax.git/static/js/main.930d886e.js.map",
-    "787.d72bad1f.chunk.js.map": "/Zaluxia/ReactPortByZax.git/static/js/787.d72bad1f.chunk.js.map"
+    "main.css": "/Zaluxia/ReactPortByZax/static/css/main.85633592.css",
+    "main.js": "/Zaluxia/ReactPortByZax/static/js/main.ac41eb7e.js",
+    "static/js/787.d72bad1f.chunk.js": "/Zaluxia/ReactPortByZax/static/js/787.d72bad1f.chunk.js",
+    "static/media/2.png": "/Zaluxia/ReactPortByZax/static/media/2.de0edd78053aba605107.png",
+    "index.html": "/Zaluxia/ReactPortByZax/index.html",
+    "main.85633592.css.map": "/Zaluxia/ReactPortByZax/static/css/main.85633592.css.map",
+    "main.ac41eb7e.js.map": "/Zaluxia/ReactPortByZax/static/js/main.ac41eb7e.js.map",
+    "787.d72bad1f.chunk.js.map": "/Zaluxia/ReactPortByZax/static/js/787.d72bad1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.85633592.css",
-    "static/js/main.930d886e.js"
+    "static/js/main.ac41eb7e.js"
   ]
 }
