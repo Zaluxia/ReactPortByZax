@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/ReactPortByZax/static/css/main.83b61060.css",
-    "main.js": "/ReactPortByZax/static/js/main.09ee6b7d.js",
+    "main.css": "/ReactPortByZax/static/css/main.3a73f6aa.css",
+    "main.js": "/ReactPortByZax/static/js/main.0ea377ef.js",
     "static/js/787.d72bad1f.chunk.js": "/ReactPortByZax/static/js/787.d72bad1f.chunk.js",
     "static/media/2.png": "/ReactPortByZax/static/media/2.de0edd78053aba605107.png",
+    "static/media/mat-logo.png": "/ReactPortByZax/static/media/mat-logo.822a85fd7f0a32d13c0e.png",
     "static/media/javas-logo.png": "/ReactPortByZax/static/media/javas-logo.da9d1a4680026a509858.png",
     "static/media/java-logo.png": "/ReactPortByZax/static/media/java-logo.f9f6c2fd0640b8bd4972.png",
+    "static/media/ar-logo.png": "/ReactPortByZax/static/media/ar-logo.bf944ed7514bdd9db1f6.png",
     "static/media/php-logo.png": "/ReactPortByZax/static/media/php-logo.35e634347f4807c683a7.png",
     "static/media/c-logo.png": "/ReactPortByZax/static/media/c-logo.dae1b429a7182fd59302.png",
     "static/media/html-logo.png": "/ReactPortByZax/static/media/html-logo.81aa31139f1e63a8e5d9.png",
     "static/media/css-logo.png": "/ReactPortByZax/static/media/css-logo.d911c9a8f2e7b7d4d31d.png",
+    "static/media/vs-logo.png": "/ReactPortByZax/static/media/vs-logo.b68dcff9230423eef9af.png",
+    "static/media/net-logo.png": "/ReactPortByZax/static/media/net-logo.efc00ac78e9de24d5fc1.png",
     "index.html": "/ReactPortByZax/index.html",
-    "main.83b61060.css.map": "/ReactPortByZax/static/css/main.83b61060.css.map",
-    "main.09ee6b7d.js.map": "/ReactPortByZax/static/js/main.09ee6b7d.js.map",
+    "main.3a73f6aa.css.map": "/ReactPortByZax/static/css/main.3a73f6aa.css.map",
+    "main.0ea377ef.js.map": "/ReactPortByZax/static/js/main.0ea377ef.js.map",
     "787.d72bad1f.chunk.js.map": "/ReactPortByZax/static/js/787.d72bad1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83b61060.css",
-    "static/js/main.09ee6b7d.js"
+    "static/css/main.3a73f6aa.css",
+    "static/js/main.0ea377ef.js"
   ]
 }
